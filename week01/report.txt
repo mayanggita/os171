@@ -1,0 +1,5 @@
+Tugas lab OS week01:
+- belajar cara push dan pull repository
+- membuat folder
+- membuat file menggunakan text editor menggunakan vi dan nano
+- menghapus file
