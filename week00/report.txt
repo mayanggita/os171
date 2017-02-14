@@ -1,0 +1,1 @@
+Tugas lab OS week00: membuat github account dan login ke Badak Server
