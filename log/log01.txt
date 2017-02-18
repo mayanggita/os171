@@ -9,3 +9,5 @@ w01-170216-13-LR-About: Scripting, From: Lecturer
 w01-170216-14-LR-About: Scripting, From: Lecturer
 w01-170216-14-LR-About: Scripting, From: Lecturer
 w01-170218-11-LR-Re-read OS Slide for week01
+w01-170218-11-LR-About: Free Software Free Society, From: Scele-Arsip
+w01-170218-12-LR-About: Software Lisence, From: Scele-Arsip
