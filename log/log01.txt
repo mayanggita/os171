@@ -4,3 +4,8 @@ w01-170214-14-LR-About: Belajar HKI dan Scripting, From: Lecturer
 w01-170214-14-LR-About: Belajar HKI dan Scripting, From: Lecturer
 w01-170214-15-PS-About: Mengerjakan tugas lab week01
 w01-170214-15-PS-About: Mengerjakan tugas lab week01
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-14-LR-About: Scripting, From: Lecturer
+w01-170216-14-LR-About: Scripting, From: Lecturer
+w01-170218-11-LR-Re-read OS Slide for week01
