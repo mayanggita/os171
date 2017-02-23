@@ -1,1 +1,12 @@
-
+w02-170221-10-LR-About: Protection, From: Book - Operating System Concepts Essentials
+w02-170221-10-LR-About: Protection, From: Book - Operating System Concepts Essentials
+w02-170221-11-LR-About: Protection, From: Book - Operating System Concepts Essentials
+w02-170221-11-LR-About: Protection in Operating System, From: Youtube - https://www.youtube.com/watch?v=HXuAYJrV5Tc
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170221-15-PS-About: Mengerjakan tugas lab week02
+w02-170221-15-PS-About: Mengerjakan tugas lab week02
+w02-170221-16-PS-About: Mengerjakan tugas lab week02
+w02-170221-16-PS-About: Mengerjakan tugas lab week02
