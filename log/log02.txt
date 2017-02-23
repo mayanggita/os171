@@ -10,3 +10,7 @@ w02-170221-15-PS-About: Mengerjakan tugas lab week02
 w02-170221-15-PS-About: Mengerjakan tugas lab week02
 w02-170221-16-PS-About: Mengerjakan tugas lab week02
 w02-170221-16-PS-About: Mengerjakan tugas lab week02
+w02-170223-13-LR-About: C Tutorial, From: Lecturer
+w02-170223-13-LR-About: C Tutorial, From: Lecturer
+w02-170223-14-LR-About: C Tutorial, From: Lecturer
+w02-170223-14-LR-About: C Tutorial, From: Lecturer
