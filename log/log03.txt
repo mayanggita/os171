@@ -1,2 +1,9 @@
+w03-170228-19-LR-About: Legacy BIOS vs UEFI BIOS, From: Youtube - https://www.youtube.com/watch?v=dRMIvY7BiL4
 w03-170228-13-LR-About: System StartUp, From: Lecturer
-w03-170228-12-LR-About: System StartUp, From: Lecturer
+w03-170228-13-LR-About: System StartUp, From: Lecturer
+w03-170228-14-LR-About: System StartUp, From: Lecturer
+w03-170228-14-LR-About: System StartUp, From: Lecturer
+w03-170228-16-PS-About: Mengerjakan tugas lab week03
+w03-170228-16-PS-About: Mengerjakan tugas lab week03
+w03-170228-17-PS-About: Mengerjakan tugas lab week03
+w03-170228-17-PS-About: Mengerjakan tugas lab week03
