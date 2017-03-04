@@ -9,3 +9,16 @@ w03-170228-17-PS-About: Mengerjakan tugas lab week03
 w03-170228-17-PS-About: Mengerjakan tugas lab week03
 w03-170302-10-LR-About: Systemd, From: Youtube - https://www.youtube.com/watch?v=KftuGM_ylKg
 w03-170302-10-LR-About: Tutorial Systemd Basics, From: Youtube - https://www.youtube.com/watch?v=AtEqbYTLHfs
+w03-170302-13-LR-About: Systemd, From: Lecturer
+w03-170302-13-LR-About: Systemd, From: Lecturer
+w03-170302-14-LR-About: Addressing and pointer, From: Lecturer
+w03-170302-14-LR-About: Addressing and pointer, From: Lecturer
+w03-170303-17-LR-About: Re-read week03 materials
+w03-170303-17-LR-About: Re-read week03 materials
+w03-170303-18-LR-About: Re-read week03 materials
+w03-170303-18-LR-About: Re-read week03 materials
+w03-170304-13-LR-About: Pointer, From: SCELE
+w03-170304-13-LR-About: Pointer, From: SCELE
+w03-170304-14-LR-About: Addressing, From: SCELE
+w03-170304-14-LR-About: Addressing, From: SCELE
+w03-170304-15-LR-About: Booting, From: SCELE
