@@ -1,0 +1,23 @@
+w04-170307-10-PS-About: Mencoba demo tentang addressing and pointer, From: Github
+w04-170307-10-PS-About: Mencoba demo tentang addressing and pointer, From: Github
+w04-170307-11-PS-About: Mencoba demo tentang addressing and pointer, From: Github
+w04-170307-13-LR-About: Addressing and Pointer, From: Lecturer
+w04-170307-13-LR-About: Addressing and Pointer, From: Lecturer
+w04-170307-14-LR-About: Addressing and Pointer, From: Lecturer
+w04-170307-14-LR-About: Addressing and Pointer, From: Lecturer
+w04-170307-15-PS-About: Mengerjakan tugas lab week04
+w04-170307-16-PS-About: Mengerjakan tugas lab week04
+w04-170307-16-PS-About: Mengerjakan tugas lab week04
+w04-170307-17-PS-About: Mengerjakan tugas lab week04
+w03-170304-09-LR-About: I/O program, From: SCELE
+w03-170304-09-LR-About: I/O program, From: SCELE
+w04-170309-10-PS-About: Mencoba demo tentang I/O program, From: Github
+w04-170309-10-PS-About: Mencoba demo tentang I/O program, From: Github
+w04-170309-11-PS-About: Mencoba demo tentang I/O program, From: Github
+w04-170309-13-LR-About: I/O program, From: Lecturer
+w04-170309-13-LR-About: I/O program, From: Lecturer
+w04-170309-14-LR-About: I/O program, From: Lecturer
+w04-170309-14-LR-About: I/O program, From: Lecturer
+w04-170310-14-PS-About: Mengerjakan tugas lab week04
+w04-170310-15-PS-About: Mengerjakan tugas lab week04
+w04-170310-15-PS-About: Membuat log week04
