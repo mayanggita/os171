@@ -1,11 +1,6 @@
 w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
 w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-
+w05-170312-10-PS-About: Virtual Memory, From: SCELE
+w05-170312-10-PS-About: Virtual Memory, From: SCELE
+w05-170312-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
+w05-170312-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
