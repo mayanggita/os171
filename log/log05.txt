@@ -1,6 +1,24 @@
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-09-PS-About: Mencoba demo tentang memory, From: Github - demo
-w05-170312-10-PS-About: Virtual Memory, From: SCELE
-w05-170312-10-PS-About: Virtual Memory, From: SCELE
-w05-170312-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
-w05-170312-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
+w05-170314-09-PS-About: Mencoba demo tentang memory, From: Github - demo
+w05-170314-09-PS-About: Mencoba demo tentang memory, From: Github - demo
+w05-170314-10-PS-About: Virtual Memory, From: SCELE
+w05-170314-10-PS-About: Virtual Memory, From: SCELE
+w05-170314-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
+w05-170314-11-LR-About: Virtual Memoty, From: Book - Operating System Concepts Essentials
+w04-170314-12-PS-About: Mengerjakan tugas lab week05
+w05-170315-14-PS-About: Address Binding and Linking, From: SCELE
+w05-170315-14-PS-About: Address Binding and Linking, From: SCELE
+w05-170315-15-PS-About: Fragmentation, From: SCELE
+w05-170315-15-PS-About: Fragmentation, From: SCELE
+w05-170315-16-PS-About: Paging, From: SCELE
+w05-170316-10-PS-About: Paging, From: SCELE
+w05-170316-13-LR-About: Swapping, From: Lecturer
+w05-170316-13-PS-About: FIFO, LRU, Optimalization, From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset, From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset, From: Lecturer
+w05-170317-15-PS-About: Memory Allocation, From: SCELE
+w05-170317-15-PS-About: Memory Allocation, From: SCELE
+w05-170317-16-PS-About: Memory Allocation, From: SCELE
+w05-170317-16-PS-About: Memory Allocation, From: SCELE
+w04-170317-17-PS-About: Mengerjakan tugas lab week05
+w04-170317-17-PS-About: Mengerjakan tugas lab week05
+w04-170318-09-PS-About: Membuat log05.txt
