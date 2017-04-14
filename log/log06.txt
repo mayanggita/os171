@@ -16,6 +16,7 @@ w06-170413-13-LR-About: Processes Synchronization, From: Lecturer
 w06-170413-13-LR-About: Processes Synchronization, From: Lecturer
 w06-170413-14-LR-About: Processes Synchronization, From: Lecturer
 w06-170413-14-LR-About: Processes Synchronization, From: Lecturer
+w06-170414-07-PS-About: Mencoba demo tentang fork, From: Github - demo
 w06-170414-08-PS-About: Mencoba demo tentang fork, From: Github - demo
 w06-170414-08-PS-About: Mengerjakan tugas lab week06
 w06-170414-09-PS-About: Mengerjakan tugas lab week06
