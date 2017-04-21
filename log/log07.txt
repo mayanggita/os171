@@ -18,6 +18,9 @@ w07-170420-14-LR-About: Scheduling and Sockets, From: Lecturer
 w07-170420-21-LR-About: Scheduling, From Book - Operating System Concepts Essentials
 w07-170420-21-LR-About: Scheduling, From Book - Operating System Concepts Essentials
 w07-170420-21-LR-About: Sockets, From Book - Operating System Concepts Essentials
+w07-170421-19-PS-About: Mencoba demo tentang Synchronization, From: Github - demo
+w07-170421-19-PS-About: Mencoba demo tentang Synchronization, From: Github - demo
+w07-170421-20-PS-About: Mencoba demo tentang Synchronization, From: Github - demo
 w07-170421-20-PS-About: Mengerjakan tugas lab week07
 w07-170421-21-PS-About: Mengerjakan tugas lab week07
 w07-170421-21-PS-About: Mengerjakan tugas lab week07
