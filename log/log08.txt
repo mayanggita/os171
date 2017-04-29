@@ -1,0 +1,26 @@
+w08-170425-08-LR-About: Scheduling, From Book - Operating System Concepts Essentials
+w08-170425-08-LR-About: Scheduling, From Book - Operating System Concepts Essentials
+w08-170425-09-LR-About: Scheduling, From Book - Operating System Concepts Essentials
+w08-170425-09-LR-About: Sockets, From Book - Operating System Concepts Essentials
+w08-170425-10-LR-About: Sockets, From Book - Operating System Concepts Essentials
+w08-170425-10-LR-About: Sockets, From Book - Operating System Concepts Essentials
+w08-170425-13-LR-About: Latihan soal scheduling, From: Lecturer
+w08-170425-13-LR-About: Latihan soal scheduling, From: Lecturer
+w08-170425-14-LR-About: Latihan soal scheduling, From: Lecturer
+w08-170425-14-LR-About: Latihan soal scheduling, From: Lecturer
+w08-170427-09-LR-About: File System, From Book - Operating System Concepts Essentials
+w08-170427-09-LR-About: File System, From Book - Operating System Concepts Essentials
+w08-170427-13-LR-About: File System, From: Lecturer
+w08-170427-13-LR-About: File System, From: Lecturer
+w08-170427-14-LR-About: File System, From: Lecturer
+w08-170427-14-LR-About: File System, From: Lecturer
+w08-170428-08-LR-About: Distributed File Systems, From: SCELE-Arsip-Kuliah Internasional-UDACITY-P4L2-03-Distributed-File-Systems.mp4
+w08-170428-08-LR-About: Distributed File Systems Models, From: SCELE-Arsip-Kuliah Internasional-UDACITY-P4L2-04-DFS-Models.mp4
+w08-170428-12-PS-About: Mengerjakan tugas lab week08
+w08-170428-12-PS-About: Mengerjakan tugas lab week08
+w08-170428-13-PS-About: Mengerjakan tugas lab week08
+w08-170428-13-PS-About: Mengerjakan tugas lab week08
+w08-170428-14-PS-About: Mengerjakan tugas lab week08
+w08-170429-10-LR-About: File System, From Book - Operating System Concepts Essentials
+w08-170429-11-LR-About: File System, From Book - Operating System Concepts Essentials
+w08-170429-11-PS-About: Membuat log08.txt
