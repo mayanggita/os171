@@ -27,4 +27,4 @@ w07-170421-21-PS-About: Mengerjakan tugas lab week07
 w07-170421-22-PS-About: Mengerjakan tugas lab week07
 w07-170421-22-PS-About: Mengerjakan tugas lab week07
 w07-170421-23-PS-About: Mengerjakan tugas lab week07
-w07-170421-23-PS-About: Membuat log06.txt
+w07-170421-23-PS-About: Membuat log07.txt
